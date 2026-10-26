@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A FullStack developer from Ecuador :ecuador:</h3>
+<h3 align="center">Senior FullStack Engineer from Ecuador :ecuador:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aReinoso007&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -9,13 +9,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a FullStack developer
+- 🔭 I’m currently working as a FullStack Engineer
 
-- 🌱 I’m currently updating my ReactJs skills
+- 🌱 I'm currently working on realstate
 
 - 📝 I regularly upload projects that I do for fun
 
-- 💬 Ask me about **Reactjs, Angular & Java with SpringBoot**
+- 💬 Ask me about **Reactjs, Angular & Java with SpringBoot & Cursor**
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
